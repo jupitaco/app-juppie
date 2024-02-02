@@ -399,7 +399,7 @@ footer .connect .socialBtn {
     width: 20%;
   }
 
-  .backHome {
+  .hero article .backHome {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -414,7 +414,7 @@ footer .connect .socialBtn {
     gap: 10px;
   }
 
-  .backHome img {
+  .hero article .backHome img {
     width: 24px;
     height: 24px;
   }
